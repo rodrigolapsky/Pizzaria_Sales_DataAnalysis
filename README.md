@@ -2,7 +2,7 @@
 This repository contains an end-to-end data analysis project focused on Pizza Restaurant Management. The project covers the entire data lifecycle, from initial data cleaning and exploratory analysis (EDA) using Python to the creation of a high-level strategic dashboard in Power BI.
 
 ## 🖥️ Project Preview
-
+<img width="1359" height="664" alt="Image" src="https://github.com/user-attachments/assets/4b55009a-ec36-4017-aff3-42316205aa51" />
 Figure: Main dashboard interface showing key sales metrics, average ticket, and performance by pizza flavor.
 
 ## 🚀 Business Problem
